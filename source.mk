@@ -1,0 +1,6 @@
+SUBDIR = 
+SOURCE = main.cpp
+SOURCEPATH = src/main.cpp
+SUBMODULEDIR = 
+SUBMODULELOC = 
+SUBMODULE = 
