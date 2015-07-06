@@ -1,5 +1,5 @@
 #ifndef DRAW_H_
-#define DRAW_H_ value
+#define DRAW_H_
 
 #include "iostream"
 
